@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Machine Learning Cours
 
 Ce dépôt contient une série de notebooks de machine learning et d'intelligence artificielle couvrant les concepts fondamentaux ainsi que des applications concrètes sur différents types de données : données tabulaires, images et texte.
 
